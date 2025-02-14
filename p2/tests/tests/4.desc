@@ -1,0 +1,1 @@
+Launch test program from shell and test getparentname when the buffer size is smaller than the length of name
